@@ -21,6 +21,7 @@ public class TwoRangesSum {
                 firsy++;
             }
             System.out.println("counted sum is " + summ);
+
         }
     }
 

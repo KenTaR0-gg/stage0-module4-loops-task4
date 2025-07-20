@@ -13,6 +13,7 @@ public class NumberToBreakOn {
                 if (i == toBreakWith + 1) {
                     break;
                 }
+
                 System.out.println(i);
             }
         }
