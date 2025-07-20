@@ -5,11 +5,11 @@ public class FixMe {
         for (int i = 0; i < 100; i++) {
             if (i % 2 == 0) {
                 System.out.println(i);
-            } else if (i == 7) {
-                System.out.println("last");
+            } if (i == 6) {
                 break;
-                System.out.println("will I be printed?");
             }
         }
+        System.out.println("last");
+        System.out.println("will I be printed?");
     }
 }
